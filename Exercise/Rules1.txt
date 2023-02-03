@@ -1,0 +1,5 @@
+1. Lag en liste med tallene: 16, 7, 412, -5
+2. Det første tallet I listen, er nå det største tallet:
+3. Gå igjennom resten av listen, sjekk om du finner et tall som er større en det nåværende største tallet
+    4. hvis du finner et større tall, husk at er det nye største tallet.
+

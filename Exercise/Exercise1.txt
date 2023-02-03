@@ -1,0 +1,8 @@
+Listen er: 16, 7, 412, -5
+største tallet = 16
+er 7 større en 16? Nei
+er 412 større en 16? Ja!
+Største tallet = 412
+er -5 større en 412? Nei
+Ikke flere tall i listen
+svaret er: 412.
