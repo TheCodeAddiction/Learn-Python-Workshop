@@ -9,6 +9,8 @@
 navn = "Martin"
 age = 26
 stilling = "Utvikler"
+nåværende_lønn = 700000
+ønsket_lønn = 10000000
 
 print("Snørre Snurlandson, 25 år, Utvikler hos PIT")
 print("Snørre Snurlandson, driver med hacking på fritiden")
