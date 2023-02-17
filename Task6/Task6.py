@@ -1,5 +1,4 @@
-# Good job! You have added your first control logic.
-# Now, expand this, we only want to check people that are adults, aka have an age greater or equal to 18.
+# move the "check age for alcohol consumption" into a function
 
 navn = "Martin"
 age = 25
@@ -16,10 +15,11 @@ print(navn, "har spilt i korps i over 10 år")
 print(navn, "liker å trene")
 
 
-if age >= 18:
-    if nåværende_lønn > ønsket_lønn:
-        print("Perfekt!")
-    elif nåværende_lønn == ønsket_lønn:
-        print("Det kan bli bedre")
-    else:
-        print("😠")
+def sjekk_lønn():
+    if age >= 18:
+        if nåværende_lønn > ønsket_lønn:
+            print("Perfekt!")
+        elif nåværende_lønn == ønsket_lønn:
+            print("Det kan bli bedre")
+        else:
+            print("😠")
