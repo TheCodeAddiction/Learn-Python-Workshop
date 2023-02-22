@@ -8,6 +8,7 @@ def ta_inn_data_fra_bruker():
     sjekk_ansatt_sin_alder(fødsels_år)
     regn_ut_lønn(årslønn)
     sjekk_lønnsøkning(årslønn,ønsket_lønn,hypotetisk_spørsmål)
+
 def sjekk_ansatt_sin_alder(fødselsår):
     nåværende_år = 1997
     alder = nåværende_år - fødselsår
